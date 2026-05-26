@@ -72,6 +72,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONBUNLENG&
 | 🏫 School App | School management mobile application |
 | 🛒 E-Commerce App | Online shopping mobile application |
 | 💼 POS System | Point of Sale management system |
+| 🍔 Food Delivery App | Food ordering and delivery system |
+| 💬 Chat Application | Real-time messaging application |
+| 🚖 Taxi Booking App | Online taxi booking platform |
+| 🏥 Hospital Management App | Patient and doctor management |
+| 📚 Learning App | Online education platform |
+| 🎵 Music Player App | Audio streaming application |
+| 🎬 Movie App | Movie browsing and streaming app |
+| 📰 News App | Latest news mobile application |
+| 🏨 Hotel Booking App | Hotel reservation platform |
+| 🛍 Shopping UI App | Modern e-commerce UI design |
+| 💳 Payment App | Digital payment system |
+| 🧾 Invoice App | Invoice and billing management |
+| 📦 Inventory System | Product stock management |
+| 🧑‍💼 Employee Management App | Staff and attendance management |
+| 🌦 Weather App | Real-time weather forecasting |
+| 🧠 AI Chat App | AI-powered chatbot application |
+| 🗺 Travel App | Travel booking and guide application |
+| 🏋️ Fitness App | Workout and health tracking app |
+| 📅 Task Manager App | Daily task and productivity app |
+
+
 
 ---
 
