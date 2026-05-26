@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm THON BUNLENG</h1>
 
 <h3 align="center">
@@ -101,4 +101,3 @@ height="40" />
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-```
