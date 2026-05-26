@@ -57,7 +57,7 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ## 📱 Mobile Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,java,kotlin" />
 </p>
 
 ---
