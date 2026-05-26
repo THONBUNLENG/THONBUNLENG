@@ -1,5 +1,4 @@
-
-<h1 align="center">Hello 👋, I'm THON BUNLENG</h1>
+<h1 align="center">Hi 👋, I'm THON BUNLENG</h1>
 
 <h3 align="center">
 🚀 Flutter Mobile App Developer | Laravel API Developer
@@ -11,51 +10,52 @@
 
 ---
 
-# 👋 Hello, I'm Thon Bunleng
+# 👨‍💻 About Me
 
 🎓 Third-year Software Engineering student at **BELTEI International University**  
-💻 Passionate about software development, technology, and continuous learning  
-🚀 Interested in building innovative and real-world projects
+💻 Passionate about software development, mobile applications, and backend systems  
+🚀 Interested in building innovative and real-world projects  
+🌱 Currently learning **Clean Architecture** and advanced mobile development  
+⚡ Love coding, problem-solving, and continuous learning
 
-## 📚 Education
+---
+
+# 📚 Education
 
 - 🎓 Studying Software Engineering at **BELTEI International University**
 - 🏫 Graduated from **King Norodom Sihamoni General and Technical High School** (2023)
 
-## 🌏 Languages & Skills
+---
+
+# 🌏 Languages
 
 - 🇬🇧 English — Studying at **PUC GESL** (Level 10)
 - 🇨🇳 Chinese — Studying at **World Youth Tourism and Hospitality School (世界青年文化旅游职业学校)** | HSK Level 4
 
-## 🎯 Goals
-
-I enjoy learning new technologies, solving problems, and improving my programming skills. My goal is to become a professional software engineer and contribute to meaningful and impactful projects.
-
 ---
-⭐ Always learning, growing, and building.
 
-## 🚀 Skills & Interests
+# 🚀 Skills & Interests
 
 - 📱 Building modern mobile applications using **Flutter**
-- 🔥 Developing backend APIs with **Laravel**
-- 🌱 Currently learning **Clean Architecture**
-- 💡 Passionate about modern **UI/UX Design**
-- 🛠️ Interested in **Full-Stack Development**
-- 📚 Continuously learning new technologies and improving my programming skills
+- 🔥 Developing RESTful APIs with **Laravel**
+- 🎨 Passionate about modern **UI/UX Design**
+- 🛠 Interested in **Full-Stack Development**
+- 📚 Continuously improving programming and problem-solving skills
 - 🤝 Enjoy teamwork, collaboration, and knowledge sharing
-- ⚡ Love coding and solving real-world problems
+- 💡 Love building real-world applications and innovative solutions
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 My goal is to become a professional **Full-Stack Mobile Developer** and build impactful applications that solve real-world problems and improve people’s lives.
 
-
+---
 
 # 🚀 Tech Stack
 
 ## 📱 Mobile Development
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift" />
 </p>
@@ -63,6 +63,7 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ---
 
 ## 💻 Programming Languages
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,html,css,java,nodejs,py" />
 </p>
@@ -70,6 +71,7 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ---
 
 ## 🛠 Backend & Database
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase" />
 </p>
@@ -81,17 +83,6 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio,ps,ai" />
 </p>
-
-### 🛠 Software & Design Tools
-
-- 🎨 Adobe Photoshop
-- ✨ Adobe Illustrator
-- 🎯 Figma
-- 💻 VS Code
-- 📱 Android Studio
-- 🔥 Postman
-- 🐙 Git & GitHub
-
 
 ---
 
@@ -109,33 +100,26 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 
 # 🔥 Featured Projects
 
-| 🚀 Project | 📖 Description | ⚙️ Technology | 📱 Platform | ⭐ Features |
-|---|---|---|---|---|
-| 🏫 School App | School management mobile application | Flutter, Firebase | Android & iOS | Attendance, Exams, Results |
-| 🛒 E-Commerce App | Online shopping mobile application | Flutter, Laravel | Android & iOS | Cart, Payment, Orders |
-| 💼 POS System | Point of Sale management system | React Native, Node.js | Mobile & Web | Billing, Inventory, Reports |
-| 🍔 Food Delivery App | Food ordering and delivery system | Flutter, Firebase | Android & iOS | Live Tracking, Payments |
-| 💬 Chat Application | Real-time messaging application | Flutter, Socket.io | Android & iOS | Messaging, Calls, Groups |
-| 🚖 Taxi Booking App | Online taxi booking platform | Flutter, Google Maps API | Android & iOS | Ride Booking, GPS |
-| 🏥 Hospital Management App | Patient and doctor management | Flutter, PHP | Mobile & Web | Appointment, Records |
-| 📚 Learning App | Online education platform | Flutter, Firebase | Android & iOS | Video Courses, Quizzes |
-| 🎵 Music Player App | Audio streaming application | Flutter | Android & iOS | Playlist, Streaming |
-| 🎬 Movie App | Movie browsing and streaming app | Flutter, TMDB API | Android & iOS | Trending, Watchlist |
-| 📰 News App | Latest news mobile application | Flutter, REST API | Android & iOS | Categories, Live News |
-| 🏨 Hotel Booking App | Hotel reservation platform | Flutter, Laravel | Android & iOS | Room Booking, Reviews |
-| 🛍 Shopping UI App | Modern e-commerce UI design | Flutter | Android & iOS | Modern UI, Animations |
-| 💳 Payment App | Digital payment system | Flutter, Stripe API | Android & iOS | Wallet, Transactions |
-| 🧾 Invoice App | Invoice and billing management | Flutter, Firebase | Mobile & Web | PDF Invoice, Reports |
-| 📦 Inventory System | Product stock management | Flutter, Node.js | Mobile & Web | Stock Tracking |
-| 🧑‍💼 Employee Management App | Staff and attendance management | Flutter, Firebase | Mobile & Web | Attendance, Payroll |
-| 🌦 Weather App | Real-time weather forecasting | Flutter, OpenWeather API | Android & iOS | Forecast, Live Weather |
-| 🧠 AI Chat App | AI-powered chatbot application | Flutter, OpenAI API | Android & iOS | AI Assistant, Voice Chat |
-| 🗺 Travel App | Travel booking and guide application | Flutter, Firebase | Android & iOS | Booking, Maps |
-| 🏋️ Fitness App | Workout and health tracking app | Flutter | Android & iOS | Workout Plans, Tracking |
-| 📅 Task Manager App | Daily task and productivity app | Flutter, Firebase | Android & iOS | Tasks, Reminders |
-| 🏡 Real Estate App | Property listing and booking platform | Flutter, Laravel | Android & iOS | Property Search, Booking |
-| 🎮 Gaming App | Multiplayer gaming and leaderboard system | Unity, Firebase | Android & iOS | Multiplayer, Leaderboard |
-| 🧑‍🍳 Recipe App | Cooking recipes and meal planning application | Flutter, REST API | Android & iOS | Recipes, Meal Planner |
+| 🚀 Project | 📖 Description | ⚙️ Technology |
+|---|---|---|
+| 🏫 School App | School management mobile application | Flutter, Firebase |
+| 🛒 E-Commerce App | Online shopping mobile application | Flutter, Laravel |
+| 💼 POS System | Point of Sale management system | React Native, Node.js |
+| 🍔 Food Delivery App | Food ordering and delivery system | Flutter, Firebase |
+| 💬 Chat Application | Real-time messaging application | Flutter, Socket.io |
+| 🚖 Taxi Booking App | Online taxi booking platform | Flutter, Google Maps API |
+| 🏥 Hospital Management App | Patient and doctor management system | Flutter, PHP |
+| 📚 Learning App | Online education platform | Flutter, Firebase |
+| 🎵 Music Player App | Audio streaming application | Flutter |
+| 🎬 Movie App | Movie browsing application | Flutter, TMDB API |
+| 📰 News App | Latest news mobile application | Flutter, REST API |
+| 🏨 Hotel Booking App | Hotel reservation platform | Flutter, Laravel |
+| 💳 Payment App | Digital payment system | Flutter, Stripe API |
+| 📦 Inventory System | Product stock management system | Flutter, Node.js |
+| 🌦 Weather App | Real-time weather forecasting app | Flutter, OpenWeather API |
+| 🧠 AI Chat App | AI-powered chatbot application | Flutter, OpenAI API |
+| 🏋️ Fitness App | Workout and health tracking app | Flutter |
+| 📅 Task Manager App | Daily task and productivity app | Flutter, Firebase |
 
 ---
 
@@ -175,12 +159,14 @@ height="40" />
 
 </p>
 
-### 📩 Social Links
+---
 
-- 💬 Telegram: @bunleng_dev
-- 📘 Facebook: wen.linji.i
-- 🎵 TikTok: @wen_lin1314
-- 📧 Gmail: leng94570@gmail.com
+# 📩 Social Links
+
+- 💬 Telegram: **@bunleng_dev**
+- 📘 Facebook: **wen.linji.i**
+- 🎵 TikTok: **@wen_lin1314**
+- 📧 Gmail: **leng94570@gmail.com**
 
 ---
 
