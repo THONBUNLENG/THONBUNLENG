@@ -74,6 +74,8 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,laravel,py,php,mysql,firebase" />
+
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
