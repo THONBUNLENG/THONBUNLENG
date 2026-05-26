@@ -106,7 +106,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONBUNLENG&
 | 📅 Task Manager App | Daily task and productivity app |
 
 
-
 ---
 
 # 🌐 Connect With Me
@@ -119,16 +118,38 @@ src="https://skillicons.dev/icons?i=github"
 height="40" />
 </a>
 
+<a href="https://www.facebook.com/wen.linji.i" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=facebook"
+height="40" />
+</a>
+
+<a href="https://www.tiktok.com/@wen_lin1314?is_from_webapp=1&sender_device=pc" target="blank">
+<img align="center"
+src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png"
+height="40" />
+</a>
+
 <a href="https://t.me/bunleng_dev" target="blank">
 <img align="center"
-src="https://skillicons.dev/icons?i=twitter"
+src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
+height="40" />
+</a>
+
+<a href="mailto:leng94570@gmail.com" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=gmail"
 height="40" />
 </a>
 
 </p>
 
-### 📩 Telegram
-@bunleng_dev
+### 📩 Social Links
+
+- 💬 Telegram: @bunleng_dev
+- 📘 Facebook: wen.linji.i
+- 🎵 TikTok: @wen_lin1314
+- 📧 Gmail: leng94570@gmail.com
 
 ---
 
