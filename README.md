@@ -96,7 +96,37 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONBUNLENG&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
---- # 🔥 Featured Projects | 🚀 Project | 📖 Description | ⚙️ Technology | 📱 Platform | ⭐ Features | |---|---|---|---|---| | 🏫 School App | School management mobile application | Flutter, Firebase | Android & iOS | Attendance, Exams, Results | | 🛒 E-Commerce App | Online shopping mobile application | Flutter, Laravel | Android & iOS | Cart, Payment, Orders | | 💼 POS System | Point of Sale management system | React Native, Node.js | Mobile & Web | Billing, Inventory, Reports | | 🍔 Food Delivery App | Food ordering and delivery system | Flutter, Firebase | Android & iOS | Live Tracking, Payments | | 💬 Chat Application | Real-time messaging application | Flutter, Socket.io | Android & iOS | Messaging, Calls, Groups | | 🚖 Taxi Booking App | Online taxi booking platform | Flutter, Google Maps API | Android & iOS | Ride Booking, GPS | | 🏥 Hospital Management App | Patient and doctor management | Flutter, PHP | Mobile & Web | Appointment, Records | | 📚 Learning App | Online education platform | Flutter, Firebase | Android & iOS | Video Courses, Quizzes | | 🎵 Music Player App | Audio streaming application | Flutter | Android & iOS | Playlist, Streaming | | 🎬 Movie App | Movie browsing and streaming app | Flutter, TMDB API | Android & iOS | Trending, Watchlist | | 📰 News App | Latest news mobile application | Flutter, REST API | Android & iOS | Categories, Live News | | 🏨 Hotel Booking App | Hotel reservation platform | Flutter, Laravel | Android & iOS | Room Booking, Reviews | | 🛍 Shopping UI App | Modern e-commerce UI design | Flutter | Android & iOS | Modern UI, Animations | | 💳 Payment App | Digital payment system | Flutter, Stripe API | Android & iOS | Wallet, Transactions | | 🧾 Invoice App | Invoice and billing management | Flutter, Firebase | Mobile & Web | PDF Invoice, Reports | | 📦 Inventory System | Product stock management | Flutter, Node.js | Mobile & Web | Stock Tracking | | 🧑‍💼 Employee Management App | Staff and attendance management | Flutter, Firebase | Mobile & Web | Attendance, Payroll | | 🌦 Weather App | Real-time weather forecasting | Flutter, OpenWeather API | Android & iOS | Forecast, Live Weather | | 🧠 AI Chat App | AI-powered chatbot application | Flutter, OpenAI API | Android & iOS | AI Assistant, Voice Chat | | 🗺 Travel App | Travel booking and guide application | Flutter, Firebase | Android & iOS | Booking, Maps | | 🏋️ Fitness App | Workout and health tracking app | Flutter | Android & iOS | Workout Plans, Tracking | | 📅 Task Manager App | Daily task and productivity app | Flutter, Firebase | Android & iOS | Tasks, Reminders | | 🏡 Real Estate App | Property listing and booking platform | Flutter, Laravel | Android & iOS | Property Search, Booking | | 🎮 Gaming App | Multiplayer gaming and leaderboard system | Unity, Firebase | Android & iOS | Multiplayer, Leaderboard | | 🧑‍🍳 Recipe App | Cooking recipes and meal planning application | Flutter, REST API | Android & iOS | Recipes, Meal Planner | ---
+# 🔥 Featured Projects
+
+| 🚀 Project | 📖 Description | ⚙️ Technology | 📱 Platform | ⭐ Features |
+|---|---|---|---|---|
+| 🏫 School App | School management mobile application | Flutter, Firebase | Android & iOS | Attendance, Exams, Results |
+| 🛒 E-Commerce App | Online shopping mobile application | Flutter, Laravel | Android & iOS | Cart, Payment, Orders |
+| 💼 POS System | Point of Sale management system | React Native, Node.js | Mobile & Web | Billing, Inventory, Reports |
+| 🍔 Food Delivery App | Food ordering and delivery system | Flutter, Firebase | Android & iOS | Live Tracking, Payments |
+| 💬 Chat Application | Real-time messaging application | Flutter, Socket.io | Android & iOS | Messaging, Calls, Groups |
+| 🚖 Taxi Booking App | Online taxi booking platform | Flutter, Google Maps API | Android & iOS | Ride Booking, GPS |
+| 🏥 Hospital Management App | Patient and doctor management system | Flutter, PHP | Mobile & Web | Appointments, Medical Records |
+| 📚 Learning App | Online education platform | Flutter, Firebase | Android & iOS | Video Courses, Quizzes |
+| 🎵 Music Player App | Audio streaming application | Flutter | Android & iOS | Playlists, Streaming |
+| 🎬 Movie App | Movie browsing and streaming application | Flutter, TMDB API | Android & iOS | Trending Movies, Watchlist |
+| 📰 News App | Latest news mobile application | Flutter, REST API | Android & iOS | Categories, Live News |
+| 🏨 Hotel Booking App | Hotel reservation platform | Flutter, Laravel | Android & iOS | Room Booking, Reviews |
+| 🛍 Shopping UI App | Modern e-commerce UI design | Flutter | Android & iOS | Modern UI, Animations |
+| 💳 Payment App | Digital payment system | Flutter, Stripe API | Android & iOS | Wallet, Transactions |
+| 🧾 Invoice App | Invoice and billing management system | Flutter, Firebase | Mobile & Web | PDF Invoice, Reports |
+| 📦 Inventory System | Product stock management system | Flutter, Node.js | Mobile & Web | Stock Tracking |
+| 🧑‍💼 Employee Management App | Staff and attendance management system | Flutter, Firebase | Mobile & Web | Attendance, Payroll |
+| 🌦 Weather App | Real-time weather forecasting application | Flutter, OpenWeather API | Android & iOS | Forecast, Live Weather |
+| 🧠 AI Chat App | AI-powered chatbot application | Flutter, OpenAI API | Android & iOS | AI Assistant, Voice Chat |
+| 🗺 Travel App | Travel booking and guide application | Flutter, Firebase | Android & iOS | Booking, Maps |
+| 🏋️ Fitness App | Workout and health tracking application | Flutter | Android & iOS | Workout Plans, Progress Tracking |
+| 📅 Task Manager App | Daily task and productivity application | Flutter, Firebase | Android & iOS | Tasks, Reminders |
+| 🏡 Real Estate App | Property listing and booking platform | Flutter, Laravel | Android & iOS | Property Search, Booking |
+| 🎮 Gaming App | Multiplayer gaming and leaderboard system | Unity, Firebase | Android & iOS | Multiplayer, Leaderboard |
+| 🧑‍🍳 Recipe App | Cooking recipes and meal planning application | Flutter, REST API | Android & iOS | Recipes, Meal Planner |
+
+---
 
 # 🌐 Connect With Me
 
