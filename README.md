@@ -23,7 +23,7 @@
 # 📚 Education
 
 - 🎓 Studying Software Engineering at **BELTEI International University**
-- 🏫 Graduated from **King Norodom Sihamoni General and Technical High School** (2023)
+- 🏫 Graduated from **King Norodom Sihamoni General and Technical High School** 
 
 ---
 
@@ -57,7 +57,7 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ## 📱 Mobile Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,java,kotlin" />
 </p>
 
 ---
