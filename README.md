@@ -45,9 +45,22 @@
 ---
 
 ## ⚙️ Tools & Platforms
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio,ps,ai" />
 </p>
+
+### 🛠 Software & Design Tools
+
+- 🎨 Adobe Photoshop
+- ✨ Adobe Illustrator
+- 🎯 Figma
+- 💻 VS Code
+- 📱 Android Studio
+- 🔥 Postman
+- 🐙 Git & GitHub
+
+
 
 ---
 
