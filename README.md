@@ -11,15 +11,35 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
+Hi, I’m **Thon Bunleng**, a 21-year-old Software Engineering student currently in my third year at BELTEI International University. I graduated from King Norodom Sihamoni General and Technical High School in 2023.
+
+To support my academic and professional growth, I am currently studying:
+
+- 🇬🇧 English at **PUC GESL** (Level 10)
+- 🇨🇳 Chinese at **World Youth Tourism and Hospitality School (世界青年文化旅游职业学校)** — HSK Level 4
+
+---
+
+## 🚀 Skills & Interests
 
 - 📱 Building modern mobile applications using **Flutter**
 - 🔥 Developing backend APIs with **Laravel**
 - 🌱 Currently learning **Clean Architecture**
-- 💡 Passionate about modern UI/UX design
+- 💡 Passionate about modern **UI/UX Design**
+- 🛠️ Interested in **Full-Stack Development**
+- 📚 Continuously learning new technologies and improving my programming skills
+- 🤝 Enjoy teamwork, collaboration, and knowledge sharing
 - ⚡ Love coding and solving real-world problems
 
 ---
+
+## 🎯 Career Goal
+
+My goal is to become a professional **Full-Stack Mobile Developer** and build impactful applications that solve real-world problems and improve people’s lives.
+
+
 
 # 🚀 Tech Stack
 
