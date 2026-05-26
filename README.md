@@ -73,7 +73,7 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ## 🛠 Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,springboot,py,php,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,laravel,py,php,mysql,firebase" />
 </p>
 
 ---
