@@ -85,7 +85,11 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio,ps,ai" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,netbeans,ps,ai" />
+
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logoColor=white" />
+</p>
 </p>
 
 ---
