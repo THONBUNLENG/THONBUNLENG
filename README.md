@@ -32,7 +32,7 @@
 
 ## 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,html,css,java,nodejs" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,html,css,java,nodejs,py" />
 </p>
 
 ---
