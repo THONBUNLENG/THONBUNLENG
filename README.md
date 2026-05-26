@@ -11,16 +11,28 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Thon Bunleng
 
-Hi, I’m **Thon Bunleng**, a 21-year-old Software Engineering student currently in my third year at BELTEI International University. I graduated from King Norodom Sihamoni General and Technical High School in 2023.
+🎓 Third-year Software Engineering student at **BELTEI International University**  
+💻 Passionate about software development, technology, and continuous learning  
+🚀 Interested in building innovative and real-world projects
 
-To support my academic and professional growth, I am currently studying:
+## 📚 Education
 
-- 🇬🇧 English at **PUC GESL** (Level 10)
-- 🇨🇳 Chinese at **World Youth Tourism and Hospitality School (世界青年文化旅游职业学校)** — HSK Level 4
+- 🎓 Studying Software Engineering at **BELTEI International University**
+- 🏫 Graduated from **King Norodom Sihamoni General and Technical High School** (2023)
+
+## 🌏 Languages & Skills
+
+- 🇬🇧 English — Studying at **PUC GESL** (Level 10)
+- 🇨🇳 Chinese — Studying at **World Youth Tourism and Hospitality School (世界青年文化旅游职业学校)** | HSK Level 4
+
+## 🎯 Goals
+
+I enjoy learning new technologies, solving problems, and improving my programming skills. My goal is to become a professional software engineer and contribute to meaningful and impactful projects.
 
 ---
+⭐ Always learning, growing, and building.
 
 ## 🚀 Skills & Interests
 
