@@ -133,7 +133,6 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 | 🧑‍🍳 Recipe App | Cooking recipes and meal planning application | Flutter, REST API | Android & iOS | Recipes, Meal Planner |
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -146,7 +145,7 @@ height="40" />
 
 <a href="https://www.facebook.com/wen.linji.i" target="blank">
 <img align="center"
-src="https://skillicons.dev/icons?i=facebook"
+src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
 height="40" />
 </a>
 
