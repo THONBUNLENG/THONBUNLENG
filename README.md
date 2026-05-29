@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Third-year Software Engineering student at **BELTEI International University**  
+🎓 Fourth-year Software Engineering student at **BELTEI International University**  
 💻 Passionate about software development, mobile applications, and backend systems  
 🚀 Interested in building innovative and real-world projects  
 🌱 Currently learning **Clean Architecture** and advanced mobile development  
