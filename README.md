@@ -91,15 +91,14 @@ My goal is to become a professional **Full-Stack Mobile Developer** and build im
 </p>
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=THONBUNLENG&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
+       src="https://github-readme-stats.vercel.app/api?username=THONBUNLENG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONBUNLENG&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONBUNLENG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 # 🔥 Featured Projects
